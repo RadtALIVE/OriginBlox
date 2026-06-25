@@ -2,7 +2,7 @@
 
 A powerful, customizable, and feature-rich launcher for Roblox designed to enhance the gaming experience through modding, theming, and deep integration.
 
-![License](https://img.shields.io/github/license/your-username/roblox-bootstrapper)
+![License](https://img.shields.io/github/license/RadtALIVE/OriginBlox)
 ![Platform](https://img.shields.io/badge/platform-windows-blue)
 ![Language](https://img.shields.io/badge/language-c%23-green)
 
